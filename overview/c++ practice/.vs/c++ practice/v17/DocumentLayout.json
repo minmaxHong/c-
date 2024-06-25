@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D47BF93-D6D4-455D-BBDF-E80C7D45FD2F}|c\u002B\u002B practice\\c\u002B\u002B practice.vcxproj|solutionrelative:c\u002B\u002B practice\\Lecture_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecture_8.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_8.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_8.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_8.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T16:24:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecture_7.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_7.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_7.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_7.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T16:20:20Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecture_6.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_6.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_6.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_6.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T16:14:59.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture_5.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_5.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_5.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_5.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T16:02:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "practice.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\practice.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\practice.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\practice.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\practice.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T15:56:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecture_4.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_4.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_4.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_4.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T15:56:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecture_3.cpp",
+              "DocumentMoniker": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_3.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B practice\\Lecture_3.cpp",
+              "ToolTip": "C:\\Users\\H_\\Desktop\\Sungmin_Github\\cpp\\overview\\c\u002B\u002B practice\\c\u002B\u002B practice\\Lecture_3.cpp",
+              "RelativeToolTip": "c\u002B\u002B practice\\Lecture_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T15:56:04.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
